@@ -1,0 +1,12 @@
+.accordion-title{
+  background-color: #303030;
+  font-size: 26px;
+  color: white;
+  margin-bottom: 5px;
+  cursor: pointer;
+  padding: 0.8em 1.2em 0.8em 1.2em;
+}
+
+.accordion-icon{
+  float: right;
+}

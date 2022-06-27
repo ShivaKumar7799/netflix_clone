@@ -1,0 +1,7 @@
+.subscribe-wrapper{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  padding-bottom: 70px;
+  align-items: center;
+}

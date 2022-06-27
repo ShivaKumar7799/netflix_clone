@@ -1,0 +1,13 @@
+.signin-button{
+  display: block;
+  background-color: #e50914;
+  width: 60px;
+  height: fit-content;
+  text-decoration: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  color: white;
+  border-radius: 3px;
+  border: 0;
+  font-size: 15px;
+}

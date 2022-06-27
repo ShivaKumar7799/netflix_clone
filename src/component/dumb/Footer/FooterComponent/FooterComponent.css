@@ -1,0 +1,26 @@
+.footer-section{
+  background-color: black;
+  padding-bottom: 50px;
+}
+.footer-wrapper{
+  max-width: 1000px;
+  margin: auto;
+  padding: 50px;
+}
+.footer-wrapper-grid{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  max-width: 1000px;
+  margin: auto;
+}
+
+.footer-column{
+  display: flex;
+  flex-direction: column;
+}
+.footer-text{
+  color: #757575;
+  font-size: 15px;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}

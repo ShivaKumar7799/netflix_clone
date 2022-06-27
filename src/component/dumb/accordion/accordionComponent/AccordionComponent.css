@@ -1,0 +1,17 @@
+.accordion-component{
+  background-color: black;
+  padding-top: 50px;
+}
+
+.accordion-heading{
+  color: white;
+  font-size: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.accordion-wrapper{
+  max-width: 800px;
+  margin: auto;
+  padding: 30px 45px;
+}

@@ -1,0 +1,10 @@
+.footer-link{
+  color: #757575;
+  font-size: 12px;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  text-decoration: underline;
+}
